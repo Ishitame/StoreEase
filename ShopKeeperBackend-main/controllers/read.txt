@@ -1,0 +1,8 @@
+
+custom date=YYYY-MM-DD
+
+checkSales type=daily,monthly,weekly,yearly
+           month=YYYY-MM
+
+profit type=daily,monthly,weekly,yearly
+
