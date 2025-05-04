@@ -65,11 +65,14 @@ StoreEase/
 ## Running the Application
 ## 1. Start the Backend Server
    cd ../ShopKeeperBackend-main
+   
    npx nodemon
+   
    By default, the backend server runs on http://localhost:5000.
 
 ## 2. Start the Frontend Development Server
    cd ../ShopKeeperFrontend-main
+   
    npm run dev
 
 ## Environment Configuration
@@ -77,7 +80,9 @@ StoreEase/
 Create a .env file in the ShopKeeperBackend-main directory with the following variables:
 
 PORT: Port number on which the backend server will run.
+
 MONGO_URI: MongoDB connection string.
+
 JWT_SECRET: Secret key for JSON Web Token authentication.
 
 
