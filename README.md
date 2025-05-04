@@ -38,11 +38,11 @@ Whether you're running a grocery shop, retail store, or local market outlet, Sto
 
 ---
 ## Technologies Used
-## Frontend: React, Redux, Axios, Bootstrap
+Frontend: React, Redux, Axios, Bootstrap
 
-## Backend: Node.js, Express, MongoDB, Mongoose, JSON Web Tokens (JWT)
+Backend: Node.js, Express, MongoDB, Mongoose, JSON Web Tokens (JWT)
 
-## Others: dotenv for environment variable management
+Others: dotenv for environment variable management
 
 ## 📁 Project Structure
 StoreEase/
